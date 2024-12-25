@@ -1,0 +1,2 @@
+obj\Release\net6.0\protos/Product.cs \
+obj\Release\net6.0\protos/ProductGrpc.cs: protos/product.proto

@@ -1,0 +1,7 @@
+A:\SWasn2\SOAPService\SOAPService\bin\Debug\SOAPService.dll.config
+A:\SWasn2\SOAPService\SOAPService\bin\Debug\SOAPService.dll
+A:\SWasn2\SOAPService\SOAPService\bin\Debug\SOAPService.pdb
+A:\SWasn2\SOAPService\SOAPService\obj\Debug\SOAPService.csproj.AssemblyReference.cache
+A:\SWasn2\SOAPService\SOAPService\obj\Debug\SOAPService.csproj.CoreCompileInputs.cache
+A:\SWasn2\SOAPService\SOAPService\obj\Debug\SOAPService.dll
+A:\SWasn2\SOAPService\SOAPService\obj\Debug\SOAPService.pdb
